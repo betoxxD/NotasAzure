@@ -67,11 +67,11 @@ SaaS: Software como servicio, el proveedor de servicios en la nube administra to
 
 ### Servicios que pueden ser ejecutados en cada modelo.
 
-<center><img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png"></center>
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas.png">
 
 ### Niveles de responsabilidad
 
-<center><img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/shared-responsibility.png"></center>
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/shared-responsibility.png">
 
 ## Informática sin servidor
 
@@ -90,3 +90,41 @@ Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u
 ### Nube híbrida
 
 Combina la nube pública con la privada, lo que permite compartir datos y aplaciones entre estas dos.
+
+## Azue
+
+Se trata de un conjunto de servicios en la nube en expansión constante que ayuda a las empresass a cumplir los desafíos empresariales actuales y futuros.
+
+## ¿Qué ofrece Azure?
+
+- Preparado para el futuro: La inovación continua de Microsoft apoya el desarrollo actual y los proyectos futuros.
+
+- Crear: Si se mantiene un compromiso con el código abierto y se admiten todos los lenguajes marcos, es posible compilar como se desee e implementar desde cualquier parte.
+
+- Operar el entorno híbrido sin problemas: Permite la integración y administración de los entornos con herramientas y servicios diseñados para una solución híbrida.
+
+- Seguridad: Está respaldado por un equipo de expertos.
+
+## ¿Cómo funciona Azure?
+
+Azure ofrece un portal con el que interactua el usuario. Este portal se conecta a un orquestador mediante una API. Posterior a esto, el orquestador empaqueta la solicitud y la envía al servidor del rack, el cual lo comunica al controlador de fábrica para que ejecute la acción empaquetada por el orquestador (como crear una máquina virtual por ejemplo).
+
+<img src="/FuncionAzure.PNG">
+
+## Azure portal
+
+Es una alternativa a las herramientas de líneas de comandos online. Permite la administración de los servicios mediante interfaz gráfica. Esta permite administrar la suscripción de Azure mediante una interfaz gráfica de usuario. Esta puede:
+
+- Compilar, administrar y supervisar todo, desde aplicaciones web sencillas hasta complejas implementaciones en la nube.
+
+- Crear páneles personalizados para una vista organizada de recursos.
+
+- Configurar opciones de accesbilidad para una experiencia óptima.
+
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-portal.png">
+
+## Azure Marketplace
+
+Facilita la conexión entre los usuarios y los proveedores de software que ofrecen soluciones y servicios optimizzados para ejecutarse en Azure. Los clientes pueden buscar, probar, comparar y aprovisionar aplicaciones y servicios de cientos de proveedores de servicios.
+
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/marketplace.png">
