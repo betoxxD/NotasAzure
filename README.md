@@ -240,3 +240,15 @@ Azure permite la creación de servicios back-end para aplicaciones móviles. Est
 - Azure IoT Hub: Proporciona comunicaciones y supervisión segura entre millones de dispositivos IoT.
 
 - IoT Edge: Permite insertar los modelos de análisis de datos directamente en los dispositivos IoT.
+
+# Módulo 2
+
+## Gastos de capital en comparación con los gastos operativos
+
+- Gastos de capital (CapEx) hacen referencia a la inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo. Este corresponde a la adquisición de infraestructura mantenida por la empresa.
+
+- Gastos operativos (OpEx) son dinero que se inverte en servicios o productos y se factura al instante. Este gasto se puede deudicr el mismo año que se produce. No hay ningún costo previo, ya que se paga un servicio o producto a medida que se usa. Este corresponde a la contratación de servicios en la nube como Azure.
+
+## Informática sin servidor
+
+La informática sin serviddor permite que los desarrolladores creen aplicaciones más rápidamente, ya que elimina la neccesidad de administrar la infraestructura. En estas, el proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código. Suelen ser muy escalables y controladas por eventos, y solo usan recursos cuando se produce una función o un desencadenador concretos.
