@@ -128,3 +128,115 @@ Es una alternativa a las herramientas de líneas de comandos online. Permite la 
 Facilita la conexión entre los usuarios y los proveedores de software que ofrecen soluciones y servicios optimizzados para ejecutarse en Azure. Los clientes pueden buscar, probar, comparar y aprovisionar aplicaciones y servicios de cientos de proveedores de servicios.
 
 <img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/marketplace.png">
+
+# Unidad 4
+
+## Paseo por los servicios de Azure
+
+A continuación se muestra una lista de servcios y características disponibles de Azure:
+
+<img src="https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png">
+
+## Proceso
+
+Los servicios a menudo son una de las razones principales de por qué las compañías se cambian a la plataforma Azure. A continuación se muestran algunos de estos:
+
+- Azure Virtual Machines: Máquinas virtuales Windows o Linux hospedadas en Azure.
+
+- Azure Virtual Machine Scale Sets: Escalado de máquinas virtuales Windows o Linux hospedadas en Azure.
+
+- Azure Kubernetes Service: Administración de clústeres para máquinas virtuales que ejeutan servicios en contenedores.
+
+- Axure Service Fabric: Plataforma de sistemas distribuidos que se ejecuta en Azure o en el entorno local.
+
+- Azure Batch: Servicio administrado para aplicaciones informáticas de alto rendimientos y paralelas.
+
+- Azure Container Instances:  Aplicaciones en contendores que se ejecutan en Azure sin necesidad de aprovisionar servidores ni máquinas virtuales.
+
+- Azure Functions: Un servico de procesos sin servidor y controlado por eventos.
+
+## Redes
+
+Azure Virtual Network: Conecta máquinas vrituales a VPN entrantes.
+
+Azure Load Balancer: Equilibra las conexiones entrantes y salientes a aplicaciones o puntos de conexión de servicio.
+
+Azure Application Gateway: Optimiza la entrega de granjas de servidores de aplicaciones y aumenta su seguridad.
+
+Azure VPN Gateway: Accede a redes de Azure Virtual Network mediante VPN de alto rendimiento.
+
+Azure DNS: Proporciona respuestas DNS ultrarrápidas y disponibildad de dominio extremadamente alta.
+
+Azure DNS: Proporciona respuestas DNS rápidas y disponibilidad de dominio alto.
+
+Azure Content Delivery Network: Entrega contenido de gran ancho de banda a los clientes globalmente.
+
+Azure DDoS Protection: Protege las aplicaciones hospedadas en Azure frente ataques DDoS.
+
+Azure Trafic Manager: Distribuye el tráfico de rede entre las regiones de Azure todo el mundo.
+
+Azure ExpressRoute: Se conecta mediante conexiones seguras de gran ancho de banda dedicadas.
+
+Azure Network Watcher:  Supervisa y diagnostíca problemas de red.
+
+Azure Firewall: Firewall de alta seguridad, disponibilidad y escalabilidad ilimitada.
+
+Azure Virtual WAN: Crea un área WAN que conecta sitios locales y remotos.
+
+## Almacenamiento
+
+Azure proporciona 4 tipos principales de almacenamiento:
+
+- Azure Blob Storage: Almacenamiento de archivos muy grandes, como videos o mapas de bits.
+
+- Azure File Storage: Recurso compartido de archivos que se administra como servidor de archivos.
+
+- Azure Queue Storage: Almacen de archivos para la puesta en cola y la entrega confiable de mensajes entre aplicaciones.
+
+Todos estos servicios cuentan con durabilidad, seguridad, escalabilidad, administración y accesibilidad.
+
+## Móvil
+
+Azure permite la creación de servicios back-end para aplicaciones móviles. Estas tienen las siguientes características:
+
+- Sincronización de datos sin conexión.
+
+- Conectividad a datos locales.
+
+- Difusión de notificaciones de insercción.
+
+- Escalado automático.
+
+## Bases de datos
+
+- Azure Cosmos DB: Base de datos distribuida globalmente que admite opciones NoSQL.
+
+- Azure SQL Database: Base de datos relacional administrada con escalado automático, inteligencia integral y seguridad sólida.
+
+- Azure Synapse Analytics: Almacen de datos administrado con seguridad integral en todos los niveles de escala sin costo adicional.
+
+- Azure Database Migration Service: Migra bases de datos a la nube sin cambios en el código de aplicación.
+
+- Azure Cache for Redis: Almacena en caché datos estáticos usados con frecuencia para reducir latencia de datos.
+
+## Web
+
+- Azure App Service: Creación rápida de aplicaciones en la nube basadas en web.
+
+- Azure Notification Hubs: Enviar notificaciones push a cualquier plataforma desde cualquier back-end.
+
+- Azure Api Management: Publicar API para desarrolladores.
+
+- Azure Cognitive Search: Búsqueda completamente administrada que se implementa como servicio.
+
+- Característica Web Apps de Azure App Service: Creación de aplicaciones web críticas a escala.
+
+- Servicio Azure SignalR: Agrega funcionalidades web en tiempo real.
+
+## IoT
+
+- IoT Central: SaaS de IoT administrada que facilita la conexión, supervisión y la administración de los recursos de IoT a escala.
+
+- Azure IoT Hub: Proporciona comunicaciones y supervisión segura entre millones de dispositivos IoT.
+
+- IoT Edge: Permite insertar los modelos de análisis de datos directamente en los dispositivos IoT.
